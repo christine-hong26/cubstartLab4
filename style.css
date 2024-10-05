@@ -1,0 +1,12 @@
+body {
+    background-color: #d7e2fa;
+}
+.header {
+    justify-content: center;
+    text-align: center;
+}
+.dolphin {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
